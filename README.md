@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### My badge
-<img src="https://user-images.githubusercontent.com/108264795/235639273-81ba0ee0-27a2-4f3f-8be8-571e72ef8f39.png" width="75" height="75">
+
+
+
+---
+#### My badge
+<img src="https://user-images.githubusercontent.com/108264795/235639273-81ba0ee0-27a2-4f3f-8be8-571e72ef8f39.png" width="50" height="50">
