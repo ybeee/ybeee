@@ -1,6 +1,6 @@
 ### 👋👋👋 Hi 👋👋👋 I’m Yeongbin. 
 
-This repository is for my personal projects. I mainly use it for testing new technologies and for learning purposes. I also store my learning materials here.
+This repository is for my personal projects. I mainly use it for testing new technologies and for learning purposes. I also store my learning contents here.
 <!--
 **ybeee/ybeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
