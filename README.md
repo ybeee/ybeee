@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://www.credly.com/badges/4fe308a6-8baa-43aa-a9c7-160262424f92/public_url">
+<img src="[https://www.credly.com/badges/4fe308a6-8baa-43aa-a9c7-160262424f92/public_url](https://www.credly.com/badges/4fe308a6-8baa-43aa-a9c7-160262424f92/public_url)">
