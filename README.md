@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/108264795/235639273-81ba0ee0-27a2-4f3f-8be8-571e72ef8f39.png=100x100)
+![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/108264795/235639273-81ba0ee0-27a2-4f3f-8be8-571e72ef8f39.png =100x100)
