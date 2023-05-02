@@ -1,4 +1,3 @@
-### Hi there 👋
 ### 👋👋👋 Hi 👋👋👋 I’m Yeongbin. 
 
 This repository is for my personal projects. I mainly use it for testing new technologies and for learning purposes. I also store my learning materials here.
